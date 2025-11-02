@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">MAD_23012021046_Assignment</string>
+    <string name="name">MAD_23012021046_Assignment</string>
+    <string name="app_name">Mobile Trip Capture</string>
+    <string name="start_trip">Start Trip</string>
+    <string name="view_trips">View Trips</string>
+    <string name="trip_details">Trip Details</string>
 </resources>
